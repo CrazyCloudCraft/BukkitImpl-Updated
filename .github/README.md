@@ -3,19 +3,18 @@
 
 ## Introduction
 
-This is a simple bukkit plugin which will allow you and your server to quickly integrate lunar features.
+This is a simple bukkit plugin which will allow you and your server to quickly integrate lunar features.  
 This is most likely intended for small teams or servers who just need a couple basic features and the ability to disable 
-mods.
-
-This project can be added as a plugin, built on, or taken inspiration from for creating server sided LunarClient features.
-
+mods.  
+  
+This project can be added as a plugin, built on, or taken inspiration from for creating server sided LunarClient features.  
+  
 ### What this is NOT
-
-This is not ideal for huge servers who need peak performance 24/7 and want to do a wide variety of gameplay features based off
-timings or other gameplay events. While this plugin is efficient, this is a one size fits most which is usually not ideal for 
-performance critical servers or applications. If you want a more technical, full control API to implement [BukkitAPI](https://github.com/LunarClient/BukkitAPI) is probably
-the best bet.
-
+  
+This is not ideal for huge servers who need peak performance 24/7 and want to do a wide variety of gameplay features based off timings or other gameplay events.  
+While this plugin is efficient, this is a one size fits most which is usually not ideal for performance critical servers or applications.  
+If you want a more technical, full control API to implement [BukkitAPI](https://github.com/LunarClient/BukkitAPI) is probably the best bet.  
+  
 ## How to Install
 
 * Download the built jar from [here](https://github.com/LunarClient/BukkitImpl/releases/).
